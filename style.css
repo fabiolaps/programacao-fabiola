@@ -3,5 +3,7 @@
     --rosa: #FF7BAB;
     --branco: #FFFFFF;
     --botao-ativo: #FF4789;
+    --botao-inativo: rgba(255, 71, 137, 1);
+    --texto-fundo: rgba(255, 174, 218, 0.85);
     
 }
